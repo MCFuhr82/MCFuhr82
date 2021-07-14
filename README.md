@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Magistral Contabilidade](http://www.escmagistral.com.br)
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS**
+- 🌱 I’m currently learning **Java, JavaScript, HTML, CSS**
 
 - 👯 I’m looking for opportunities to work as a **Full Stack Web Development**
 
