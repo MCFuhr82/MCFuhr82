@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, JavaScript, HTML, CSS**
 
-- 👯 I’m looking for opportunities to work as a **Full Stack Web Development**
+- 👯 I’m looking for opportunities to work as a **Full Stack Development** and **Backend Development**
 
 - 📫 How to reach me **marcelinhofuhr@gmail.com**
 
