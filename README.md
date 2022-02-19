@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Magistral Contabilidade](http://www.escmagistral.com.br)
 
-- 🌱 I’m currently learning **Java, JavaScript, HTML, CSS**
+- 🌱 I’m currently learning **Java, SpringBoot, APIRest, .NET**
 
 - 👯 I’m looking for opportunities to work as a **Full Stack Development** and **Backend Development**
 
@@ -43,3 +43,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcfuhr82&theme=onedark&show_icons=true)
