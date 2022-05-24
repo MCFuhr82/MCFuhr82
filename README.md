@@ -1,9 +1,9 @@
 <h1 align="center">Hello friend <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marcelo Fuhr</h1>
 <h3 align="center">Right now, I'm an account getting deep into the world of Web Development.</h3>
 
-- 🔭 I’m currently working on [Magistral Contabilidade](http://www.escmagistral.com.br)
+- 🔭 I’m currently working on [Aliare](https://www.linkedin.com/company/aliare/)
 
-- 🌱 I’m currently learning **Java, SpringBoot, APIRest, .NET**
+- 🌱 I’m currently learning **Java, SpringBoot, APIRest, .NET, Entity Framework**
 
 - 👯 I’m looking for opportunities to work as a **Full Stack Development** and **Backend Development**
 
